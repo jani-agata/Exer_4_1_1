@@ -1,1 +1,2 @@
-Hej jag heter Daniela Alwan och jag ska lära mig hur man jobbar med github :P 
+    Hej jag heter Daniela Alwan och jag ska lära mig hur man jobbar med github :P 
+    Nu finns det massor med mer text här :) tror inte jag och git kommer vara så bra vänner men ska försöka :) 
